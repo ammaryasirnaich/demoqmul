@@ -1,1 +1,2 @@
 My first entry as a git project
+My second entry as a git project
